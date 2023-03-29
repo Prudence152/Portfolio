@@ -59,7 +59,7 @@
       position: absolute;
       top: 0;
       left: 0;
-      background: url("images/homee.jpg") no-repeat center center/cover;
+      background: url("../images/homee.jpg") no-repeat center center/cover;
       height: 700px;
       width: 100%;
       z-index: -1;
@@ -106,7 +106,7 @@
   #aboutus{
       display: flex;
       flex-direction: column;
-      background: url("images/home.jpg")no-repeat center center/cover;
+      background: url("../images/home.jpg")no-repeat center center/cover;
       height: 700px;
       width: 100%;
       z-index: -1;
@@ -160,7 +160,7 @@
   #Activity{
       display: flex;
       flex-direction: column;
-      background: url("images/act.jpg")no-repeat center center/cover;
+      background: url("../images/act.jpg")no-repeat center center/cover;
       height: 700px;
       width: 100%;
       z-index: -1;
