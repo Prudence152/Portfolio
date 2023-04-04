@@ -4,9 +4,11 @@ margin: 0;
 } 
 
 body{ 
-background: url("hands.jpg"); background-repeat: no-repeat; background-position: center center; 
+background: url("hands.jpg"); background-repeat: no-repeat; 
+background-position: center center; 
 background-size: cover; 
 height: 100vh;
+margin-top: 0;
 } 
 
 .letter{
@@ -25,7 +27,7 @@ text-align: center;
 transform: translate(-50%,-50%); 
 background: rgba(255,255,255,.3); 
 box-shadow: -15px 17px 17px rgb(10,10,10,0.25); 
-letter-spacing: 1.5px;
+letter-spacing: 2px;
 margin-bottom: 20px;
 z-index: 10;
 padding: 0,20px;
